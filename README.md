@@ -1,9 +1,3 @@
-Here’s an enhanced, creative, and impactful version of your README file:  
-
----
-
-![Tech Stack](assets/tech_stack.png)
-
 # 🚀 SQL-The Data Manager | Master Your Data Like a Pro  
 
 **SQL-The Data Manager** is your ultimate solution for taming the complexities of data management. Whether you're dealing with massive datasets, optimizing database performance, or executing advanced queries, this repository empowers you with the tools to make data work for you—efficiently, seamlessly, and powerfully.  
